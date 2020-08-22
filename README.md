@@ -1,2 +1,2 @@
 # Dataviz_Covid_Bogota
-Python
+Python-Elias Buitrago-Sonia Ardila
